@@ -1,0 +1,68 @@
+.konten1 {
+    background-color: #D2A56C;
+}
+
+.jedah {
+    background-color: #A05E2A;
+}
+
+.spesial-menu {
+    background-color: #D2A56C;
+}
+
+.spesial-menu h1 {
+    text-align: center;
+    color: #3B271E;
+}
+
+.kata-pelanggan {
+    background-color: #D2A56C;
+}
+
+.testimonial-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+}
+.testimonial {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.avatar {
+    width: auto;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.testimonial-container h1 {
+    text-align: center;
+    color: #3B271E;
+}
+
+.kelompok {
+    background-color: #D2A56C;
+}
+
+.kelompok h1 h2 h3{
+    color: #3B271E;
+}
+
+.card-body {
+    background-color: #D2A56C;
+}
+
+#footer {
+    background: #A05E2A;
+    padding: 0 0 30px 0;
+    color: #3B271E;
+    font-size: 14px;
+  }
+
+#footer .copyright {
+    text-align: center;
+    padding-top: 30px;
+  }
